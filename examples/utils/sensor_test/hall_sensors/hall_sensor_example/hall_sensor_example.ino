@@ -1,4 +1,4 @@
-/**
+/**a
  *  Hall sensor example code 
  * 
  * This is a code intended to test the hall sensors connections and to demonstrate the hall sensor setup.
